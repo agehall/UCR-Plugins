@@ -1,3 +1,11 @@
+# Notes about this repository
+This is a fork of https://github.com/HidWizards/UCR-Plugins/ . Only plugins not distributed by the original repo can be expected to be distributed here.
+
+## Plugins added on top of the original repo
+
+### AxisToAxisScaled
+Allows mapping from an axis to another one with the option of scaling the input axis to only a part of the output axis. This is useful when you for example want to simulate a forward only throttle in Elite Dangerous while having the setting in the game set to full range.
+
 # UCR-Plugins
 Experimental and niche plugins for UCR
 
